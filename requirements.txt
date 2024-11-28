@@ -1,6 +1,2 @@
 Flask==2.3.2
 gunicorn==20.0.4
-
-git add .                       # Stage all changes
->> git commit -m "Added new feature"  # Commit with a message
->> git push origin master           # Push changes to the 'main' branch 
